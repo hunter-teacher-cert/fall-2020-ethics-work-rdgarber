@@ -1,6 +1,6 @@
-## Garber
-## Bob
-## rdgarber
+## Lastname: Garber
+## Firstname: Bob
+## github username: rdgarber
 ---------------------
 ### general workflow:
 0. Fill out the top of this form, commit and push it back to GitHub.
