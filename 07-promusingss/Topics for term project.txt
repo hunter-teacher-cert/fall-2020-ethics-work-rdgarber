@@ -1,0 +1,17 @@
+1. Breaking up Google 
+    Musings on the recent anti-trust lawsuit filed by the Justice Department
+    Is big bad per se?
+    What is the core of the government's case?
+    Should the government break up something that is free for most consumers?  
+    What are the costs and benefits of breaking up Google.
+2. Data security vs. government need
+     Should Apple be forced to create a back door for government security
+     what are the public policy reasons to forbid this?
+     Can government thwart terrorism without a security channel into private phones and data?
+     Personal privacy needs vs. public security.
+3. Net Neutrality
+    What has changed in the past four years
+    Should it be reimposed?
+       Has there been damage in the past few years?
+       what future scenarios are we concerned about. 
+       Does net-neutrality address those?
